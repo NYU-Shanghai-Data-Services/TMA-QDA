@@ -1,17 +1,21 @@
-.jumbotron {
+.custombanner {
+  color: $p2pu-blue;
   padding: $jumbotron-padding ($jumbotron-padding / 2);
   margin-bottom: $jumbotron-padding;
-  color: $jumbotron-color;
-  background-color: $jumbotron-bg;
   @include border-radius($border-radius-lg);
-
+  
   @include media-breakpoint-up(sm) {
     padding: ($jumbotron-padding * 2) $jumbotron-padding;
-  }
+
+  };
+  text-shadow:none !important;
+
 }
 
 .jumbotron-fluid {
-  padding-right: 0;
-  padding-left: 0;
-  @include border-radius(0);
+    padding-right: 0;
+    padding-left: 0;
+    border-radius: 0;
+    background: url(../img/Banner (1).png) no-repeat;
+    background-size: cover;
 }
