@@ -24,3 +24,7 @@ The two sessions, held back-to-back, compare and contrast the TM/A and QDA appro
 #### Contact
 Yun Dai (yun.dai@nyu.edu), Data Services Librarian, NYU Shanghai <br>
 Fan Luo (fan.luo@nyu.edu), Digital Scholarship Manager, NYU Shanghai
+
+<br> 
+
+<br> 
