@@ -4,8 +4,14 @@
 // Headings
 //
 
+@font-face {
+    font-family: "Steppe";
+    src: url("../fonts/Steppe.ttf");
+}
+
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: Steppe;
   margin-bottom: $headings-margin-bottom;
   font-family: $headings-font-family;
   font-weight: $headings-font-weight;
