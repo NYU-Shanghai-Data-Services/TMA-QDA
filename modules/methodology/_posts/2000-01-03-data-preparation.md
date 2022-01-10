@@ -6,7 +6,7 @@ title: Data preparation
 
 <br>
 
-#3# Check the data
+### Check the data
 Are the texts we collected clear about vaccination requirements?  If not, we need to find additional documents as evidence to support our guesses. 
 
 In other words, have we collected everything we need? 
